@@ -14,7 +14,7 @@ class dupont:
     def calc_AssetTurnover(self, netSales:float, avgTotalAssets:float):
         self.netSales = netSales
         self.avgTotalAssets = avgTotalAssets
-        return netSales * avgTotalAssets
+        return netSales / avgTotalAssets
 
     def calc_FinLeverage(self, totalLiabilities:float, shareholderEquity:float):
         self.totalLiabilities = totalLiabilities
