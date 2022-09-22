@@ -2,13 +2,8 @@
 <h3 align="center">Finance and Economics Student working on CS Projects related to Financial Analysis, Economics, Data Analytics, and Accounting Frameworks.</h3>
 
 - 🔭 I’m currently working on a [Finance-API](https://github.com/cc3569/Finance-API)
-
 - 👨‍💻 All of my projects are available [here](https://github.com/cc3569)
-
 - 📫 Email Me at **cc3569@nau.edu**
-
-- 
-
 - 📄 Resume and Credentials [https://linkedin.com/in/cc3569](https://linkedin.com/in/cc3569)
 
 <h3 align="left">Connect with me:</h3>
