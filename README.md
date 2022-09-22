@@ -1,7 +1,7 @@
 <h1 align="center">Hi! I'm Cole. 👋</h1>
 <h3 align="center">Finance and Economics Student working on CS Projects related to Financial Analysis, Economics, Data Analytics, and Accounting Frameworks.</h3>
 
-- 🔭 I’m currently working on a [Finance-API](https://github.com/cc3569/)
+- 🔭 I’m currently working on a [Finance-API](https://github.com/cc3569/Finance-API)
 
 - 👨‍💻 All of my projects are available [here](https://github.com/cc3569)
 
