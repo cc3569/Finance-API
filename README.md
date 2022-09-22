@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on a [Finance-API](https://github.com/cc3569/)
 
-- 👨‍💻 All of my projects are available at [github.com/cc3569](github.com/cc3569)
+- 👨‍💻 All of my projects are available [here](https://github.com/cc3569)
 
 - 📫 Email Me at **cc3569@nau.edu**
 
